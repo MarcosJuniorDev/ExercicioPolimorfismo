@@ -1,0 +1,15 @@
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioPoli\ExercicioPoli\bin\Debug\net6.0\ExercicioPoli.exe
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioPoli\ExercicioPoli\bin\Debug\net6.0\ExercicioPoli.deps.json
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioPoli\ExercicioPoli\bin\Debug\net6.0\ExercicioPoli.runtimeconfig.json
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioPoli\ExercicioPoli\bin\Debug\net6.0\ExercicioPoli.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioPoli\ExercicioPoli\bin\Debug\net6.0\ExercicioPoli.pdb
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioPoli\ExercicioPoli\obj\Debug\net6.0\ExercicioPoli.csproj.AssemblyReference.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioPoli\ExercicioPoli\obj\Debug\net6.0\ExercicioPoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioPoli\ExercicioPoli\obj\Debug\net6.0\ExercicioPoli.AssemblyInfoInputs.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioPoli\ExercicioPoli\obj\Debug\net6.0\ExercicioPoli.AssemblyInfo.cs
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioPoli\ExercicioPoli\obj\Debug\net6.0\ExercicioPoli.csproj.CoreCompileInputs.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioPoli\ExercicioPoli\obj\Debug\net6.0\ExercicioPoli.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioPoli\ExercicioPoli\obj\Debug\net6.0\refint\ExercicioPoli.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioPoli\ExercicioPoli\obj\Debug\net6.0\ExercicioPoli.pdb
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioPoli\ExercicioPoli\obj\Debug\net6.0\ExercicioPoli.genruntimeconfig.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioPoli\ExercicioPoli\obj\Debug\net6.0\ref\ExercicioPoli.dll
